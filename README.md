@@ -19,7 +19,19 @@ https://books.agiliq.com/projects/django-orm-cookbook/en/latest/index.html
 How to force Django models to be released from memory
 https://stackoverflow.com/questions/54152363/how-to-force-django-models-to-be-released-from-memory
 
+How do I clone a Django model instance object and save it to the database?
+https://stackoverflow.com/questions/4733609/how-do-i-clone-a-django-model-instance-object-and-save-it-to-the-database
+
 # Elasticsearch
 
 Elasticsearch Guide
 https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html
+
+# Quant Trading
+Quickstart
+https://www.backtrader.com/docu/quickstart/quickstart/
+
+GitHub
+https://github.com/mementum/backtrader
+
+https://github.com/je-suis-tm/quant-trading
